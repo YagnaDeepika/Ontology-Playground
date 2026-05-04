@@ -1,0 +1,15 @@
+{
+  "name": "DMA Two-Layer Supply Chain Intelligence Network",
+  "description": "A two-layer ontology for the Disruption Mitigation Agent: Layer 1 models the operational supply chain (vendors, items, purchase orders, sales orders, inventory, customers) and Layer 2 models the decision-trace intelligence memory (episodes, mitigation decisions, facts, reflections, concepts, policies, goals, recommendations). Cross-layer edges anchor institutional memory to specific supply chain entities.",
+  "icon": "🏭",
+  "category": "manufacturing",
+  "tags": [
+    "supply-chain",
+    "disruption-mitigation",
+    "two-layer-network",
+    "intelligence-graph",
+    "dma",
+    "memory-graph"
+  ],
+  "author": "yaorugan"
+}
